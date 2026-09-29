@@ -1,0 +1,7 @@
+.vercel
+
+# Email assistant
+email-assistant/.env
+email-assistant/token_cache.bin
+email-assistant/.venv/
+email-assistant/__pycache__/
